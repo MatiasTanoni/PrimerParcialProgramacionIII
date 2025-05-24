@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar-brand,
+.nav-link,
+.btn {
+    color: white !important;
+}
+
+.card {
+    margin-top: 40px;
+}
+
+.nav-link.active-border {
+    border-bottom: 3px solid white;
+    padding-bottom: 2px;
+}
+
+main {
+    display: none;
+}
+
+main.active {
+    display: block;
+}
+
+.is-valid {
+    font-size: large;
+    border: 2px solid #198754;
+    background-color: #d1e7dd;
+    color: #0f5132;
+    padding: 8px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
