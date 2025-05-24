@@ -1,6 +1,6 @@
 # 🎨 Gestor de Pinturas
 
-![UTN Logo](./img/utnLogo.png)
+![UTN Logo](matiasTanoni/prog_3_primer_parcial/img/utnLogo.png)
 
 **Autor**: Matias Tanoni  
 **Descripción**: Aplicación web interactiva para la gestión de inventario de pinturas, desarrollada con HTML, Bootstrap y JavaScript. Conecta con una API REST para manejar los datos en tiempo real.
